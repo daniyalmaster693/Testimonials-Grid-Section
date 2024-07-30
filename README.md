@@ -8,7 +8,7 @@ A basic HTML and CSS challenge from Frontend Mentor. This is the solution to the
 <h2> Links </h2>
 
 <li> Link to solution: https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-KiVMXoGGYZ </li>
-<li> Link to live demo: https://blaze4884.github.io/Testimonials-Grid-Section/ </li>
+<li> Link to live demo: https://daniyalmaster693-testimonials-grid-section.vercel.app </li>
 
 <h2> What have I learned </h2>
 
